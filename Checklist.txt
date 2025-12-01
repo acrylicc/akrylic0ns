@@ -13,7 +13,6 @@ Robinhood
 Pluto TV
 Pokemon TCG Live
 Pushover
-3D Circle
 Meta
 
 NOTE: once youre done with all the ones above,
